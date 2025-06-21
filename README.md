@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pragesh (aka knotfest79)
 
-💻 **Front-End Developer** | JavaScript • React • WordPress  
+💻 **Full Stack Developer** | JavaScript • React • WordPress  
 🎯 Focused on building responsive, high-performance web apps and CRM dashboards.  
 🧠 Currently diving deeper into: Node.js, Express, Postman, MongoDb, Supabase, Firebase, and eCommerce architecture.
 
