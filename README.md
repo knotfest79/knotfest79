@@ -2,7 +2,7 @@
 
 💻 **Front-End Developer** | JavaScript • React • WordPress  
 🎯 Focused on building responsive, high-performance web apps and CRM dashboards.  
-🧠 Currently diving deeper into: Node.js, Supabase, Firebase, and eCommerce architecture.
+🧠 Currently diving deeper into: Node.js, Express, Postman, MongoDb, Supabase, Firebase, and eCommerce architecture.
 
 ---
 
@@ -11,7 +11,7 @@
 - 🔹 **NestCRM**  
   React-based CRM with AI-powered churn analysis and customer retention features.  
   _Tech:_ React, Styled-Components, Firebase Auth, Supabase, REST API  
-  [Live Demo](#) | [GitHub Repo](#)
+ [Live Demo](#) | [GitHub Repo](#)
 
 - 🔹 **Finni – Expense Tracker App**  
   Mobile-first React Native app to track personal and business expenses.  
