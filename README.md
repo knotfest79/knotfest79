@@ -11,12 +11,12 @@
 - 🔹 **NestCRM**  
   React-based CRM with AI-powered churn analysis and customer retention features.  
   _Tech:_ React, Styled-Components, Firebase Auth, Supabase, REST API  
- [Live Demo](#) | [GitHub Repo](#)
+
 
 - 🔹 **Finni – Expense Tracker App**  
   Mobile-first React Native app to track personal and business expenses.  
   _Tech:_ React Native, Firebase, Context API, Expo  
-  [Live Demo](#) | [GitHub Repo](#)
+  
 
 - 🔹 **Client CMS Portal (WordPress + Custom Theme)**  
   WordPress-based site with custom Astra Child Theme + dynamic forms & deployment pipeline.  
