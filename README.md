@@ -1,50 +1,89 @@
-# Hi there 👋 I'm Pragesh (aka knotfest79)
+# Hi there 👋 I'm Pragesh Devbhandari
 
-💻 **Full Stack Developer** | JavaScript • React • WordPress  
-🎯 Focused on building responsive, high-performance web apps and CRM dashboards.  
-🧠 Currently diving deeper into: Node.js, Express, Postman, MongoDb, Supabase, Firebase, and eCommerce architecture.
+🚀 **Full Stack Developer | System Builder | SEO & Automation Thinker**
+💻 Building scalable web apps, CRM systems, and performance-driven business solutions
 
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🧠 What I Actually Do
 
-- 🔹 **NestCRM**  
-  React-based CRM with AI-powered churn analysis and customer retention features.  
-  _Tech:_ React, Styled-Components, Firebase Auth, Supabase, REST API  
+I don’t just build UI — I build **systems that solve real problems**.
 
+* ⚡ Develop **full-stack applications** using modern architectures
+* 📊 Build **CRM platforms & dashboards** focused on business outcomes (retention, automation)
+* 🌐 Create **SEO-optimized websites** that rank and convert
+* 🔗 Integrate APIs, databases, and automation pipelines
+* 🤖 Exploring **AI-assisted workflows, RAG, and backend intelligence systems**
 
-- 🔹 **Finni – Expense Tracker App**  
-  Mobile-first React Native app to track personal and business expenses.  
-  _Tech:_ React Native, Firebase, Context API, Expo  
-  
+---
 
-- 🔹 **Client CMS Portal (WordPress + Custom Theme)**  
-  WordPress-based site with custom Astra Child Theme + dynamic forms & deployment pipeline.  
-  _Tech:_ PHP, JS, WordPress REST API, ACF, Custom CSS/JS
+### 🚀 Featured Projects
+
+#### 🔹 NestCRM — AI-Powered CRM System
+
+A scalable CRM platform focused on **customer retention & churn analysis**
+**Tech:** React, Next.js, Supabase, Firebase Auth, REST APIs
+
+---
+
+#### 🔹 Wealon-XP — Dynamic Business Website System
+
+Custom admin-driven website builder with real-time content management
+**Tech:** Next.js (App Router), Prisma, Neon DB, Custom Auth
+
+---
+
+#### 🔹 Finni — Expense Tracker (Mobile App)
+
+Clean, mobile-first app for tracking personal & business finances
+**Tech:** React Native, Firebase, Context API
+
+---
+
+#### 🔹 Custom WordPress Systems (Client Work)
+
+Built multiple production-ready websites with **custom themes & SEO optimization**
+**Tech:** WordPress, Astra Child Theme, PHP, JS, REST API
 
 ---
 
 ### 🧰 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+**Frontend:**
+React • Next.js • JavaScript • TypeScript • Tailwind • Styled Components
+
+**Backend & DB:**
+Node.js • Express • Prisma • PostgreSQL (Neon) • MongoDB • Supabase • Firebase
+
+**Tools & Systems:**
+Git • Vercel • Postman • Docker (learning) • SEO (GSC, GA4, GBP)
 
 ---
 
-### 📈 GitHub Stats
+### 📈 What I'm Focused On Now
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knotfest79&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knotfest79&layout=compact&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com?user=knotfest79&theme=react)](https://git.io/streak-stats)
+* ⚙️ Backend architecture & system design
+* 🔄 Automation & integrations (APIs, workflows)
+* 🧠 AI + RAG systems (long-term vision: personal AI system)
+* 💰 Building real-world products & freelance systems
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
 
-📧 richie.pd@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/pragesh-devbhandari-311762128/)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knotfest79\&show_icons=true\&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knotfest79\&layout=compact\&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com?user=knotfest79\&theme=react)](https://git.io/streak-stats)
+
+---
+
+### 📫 Connect With Me
+
+📧 [richie.pd@gmail.com](mailto:richie.pd@gmail.com)
+🌐 https://www.linkedin.com/in/pragesh-devbhandari-311762128/
+
+---
+
+### ⚡ Mindset
+
+> I’m not here just to code — I’m here to build systems that create impact, solve problems, and generate real value.
